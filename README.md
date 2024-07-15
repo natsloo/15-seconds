@@ -4,7 +4,8 @@ My first SFML game made to learn the basics.
 
 The player has 15s to click as many randomly generated circles as possible. My personal record is 42 so far.
 
-![image](https://github.com/user-attachments/assets/1c07069b-648a-4530-b72c-66bbc6eb1bd9)
+![image](https://github.com/user-attachments/assets/46ff55fc-9f93-4e17-bc10-9ef8a3452453)
+
 ![image](https://github.com/user-attachments/assets/95461932-12c6-4000-8673-839bfc33387d)
 
 Assets used:

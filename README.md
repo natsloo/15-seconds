@@ -14,5 +14,5 @@ background texture: <a href="https://pl.freepik.com/darmowe-zdjecie/artystyczne-
 
 title font: <a href="https://fonts.google.com/specimen/Monofett">Monofett</a>
 
-second font <a href="https://learn.microsoft.com/pl-pl/typography/font-list/andy">Andy Bold</a>
+second font: <a href="https://learn.microsoft.com/pl-pl/typography/font-list/andy">Andy Bold</a>
 

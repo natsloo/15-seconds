@@ -8,6 +8,8 @@ The player has 15s to click as many randomly generated circles as possible. My p
 
 ![image](https://github.com/user-attachments/assets/95461932-12c6-4000-8673-839bfc33387d)
 
+![image](https://github.com/user-attachments/assets/856c117b-58aa-412d-a716-cea35f7e8f8d)
+
 ![image](https://github.com/user-attachments/assets/fab8f3ee-91cb-48fd-9fa5-60d57aeb8178)
 
 
